@@ -17,10 +17,18 @@ namespace Baitap1
 
             listA.Items.Add("Huỳnh Phương Anh");
             listA.Items.Add("Lưu Tân Đức");
-            listA.Items.Add("Trần Anh Khoa");
-            listA.Items.Add("Lê Hoàng Hà");
-            listA.Items.Add("Phạm Anh Hòa");
-
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
+            listA.Items.Add("Lưu Tân Đức");
             listB.Items.Add("Hoàng Hồ Nam");
             listB.Items.Add("Lê Anh Trung");
         }
