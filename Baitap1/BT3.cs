@@ -31,6 +31,17 @@ namespace Baitap1
             listA.Items.Add("Lưu Tân Đức");
             listB.Items.Add("Hoàng Hồ Nam");
             listB.Items.Add("Lê Anh Trung");
+			
+			//Test Git 
+            listB.Items.Add("Ahihi");
+            listB.Items.Add("Ahihi");
+            listB.Items.Add("Ahihi");
+            listB.Items.Add("Ahuhu");
+            listB.Items.Add("ABc");
+            listB.Items.Add("123456");
+
+			
+			
         }
 
         private void btnFinish_Click(object sender, EventArgs e)
