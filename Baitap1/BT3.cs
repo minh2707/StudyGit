@@ -39,6 +39,10 @@ namespace Baitap1
             listB.Items.Add("Ahuhu");
             listB.Items.Add("ABc");
             listB.Items.Add("123456");
+	    //Code moi cap nhat
+	    listB.Items.Add("New");
+            listB.Items.Add("New");
+            listB.Items.Add("New");
 
 			
 			
