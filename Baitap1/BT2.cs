@@ -77,6 +77,8 @@ namespace Baitap1
             lst1.Items.Remove(lst1.Items[0]);
 
         }
+		
+		//Test Choi 
 
     }
 }
