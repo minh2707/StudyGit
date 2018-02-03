@@ -14,7 +14,7 @@ namespace Baitap1
         public BT3()
         {
             InitializeComponent();
-
+//ahajhkjhkjhkjh
             listA.Items.Add("Huỳnh Phương Anh");
             listA.Items.Add("Lưu Tân Đức");
             listA.Items.Add("Lưu Tân Đức");
