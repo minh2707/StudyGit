@@ -16,6 +16,7 @@ namespace Baitap1
         public BT4()
         {
             InitializeComponent();
+			//abcasdsadsa
         }
 
         private void btnNhap_Click(object sender, EventArgs e)
